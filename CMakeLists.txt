@@ -33,6 +33,7 @@ qt_add_qml_module(${PROJECT_NAME}
     RESOURCES res/resources.qrc
     QML_FILES src/WorkAreaRow.qml
     SOURCES src/standbymanager.h src/standbymanager.cpp
+    SOURCES src/presetmanager.h src/presetmanager.cpp
 )
 
 

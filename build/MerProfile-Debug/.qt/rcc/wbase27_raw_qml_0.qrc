@@ -1,8 +1,0 @@
-<RCC>
-  <qresource prefix="/wbase27/">
-    <file alias="src/Main.qml">/home/wolfdale/workspace/projects/wbase27/src/Main.qml</file>
-    <file alias="src/WorkAreaRow.qml">/home/wolfdale/workspace/projects/wbase27/src/WorkAreaRow.qml</file>
-    <file alias="res/resources.qrc">/home/wolfdale/workspace/projects/wbase27/res/resources.qrc</file>
-  </qresource>
-</RCC>
-
