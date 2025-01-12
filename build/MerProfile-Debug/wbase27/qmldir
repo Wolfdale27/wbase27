@@ -1,0 +1,6 @@
+module wbase27
+typeinfo wbase27.qmltypes
+prefer :/wbase27/
+Main 1.0 src/Main.qml
+WorkAreaRow 1.0 src/WorkAreaRow.qml
+

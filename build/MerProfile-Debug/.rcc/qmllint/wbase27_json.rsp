@@ -1,0 +1,13 @@
+--bare
+-I
+/home/wolfdale/workspace/projects/wbase27/build/MerProfile-Debug
+-I
+/opt/Qt/6.7/gcc_64/qml
+--resource
+/home/wolfdale/workspace/projects/wbase27/build/MerProfile-Debug/.qt/rcc/qmake_wbase27.qrc
+--resource
+/home/wolfdale/workspace/projects/wbase27/build/MerProfile-Debug/.qt/rcc/wbase27_raw_qml_0.qrc
+/home/wolfdale/workspace/projects/wbase27/src/Main.qml
+/home/wolfdale/workspace/projects/wbase27/src/WorkAreaRow.qml
+--json
+/home/wolfdale/workspace/projects/wbase27/build/MerProfile-Debug/wbase27_qmllint.json

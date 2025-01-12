@@ -1,0 +1,89 @@
+[
+    {
+        "classes": [
+            {
+                "className": "StandbyManager",
+                "methods": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "filePath",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "saveSettings",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "filePath",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "loadSettings",
+                        "returnType": "void"
+                    }
+                ],
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "interval",
+                        "notify": "intervalChanged",
+                        "read": "interval",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false,
+                        "write": "setInterval"
+                    }
+                ],
+                "qualifiedClassName": "StandbyManager",
+                "signals": [
+                    {
+                        "access": "public",
+                        "name": "intervalChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "name": "startStandbyTimer",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "stopStandbyTimer",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "turnOffScreen",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "turnOnScreen",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "standbymanager.h",
+        "outputRevision": 68
+    }
+]

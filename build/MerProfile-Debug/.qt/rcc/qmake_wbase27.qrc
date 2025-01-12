@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/wbase27">
+    <file alias="qmldir">/home/wolfdale/workspace/projects/wbase27/build/MerProfile-Debug/wbase27/qmldir</file>
+  </qresource>
+</RCC>
+

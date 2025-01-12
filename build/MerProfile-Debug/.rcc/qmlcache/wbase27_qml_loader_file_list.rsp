@@ -1,0 +1,6 @@
+--resource
+/home/wolfdale/workspace/projects/wbase27/build/MerProfile-Debug/.qt/rcc/qmake_wbase27.qrc
+--resource
+/home/wolfdale/workspace/projects/wbase27/build/MerProfile-Debug/.qt/rcc/wbase27_raw_qml_0.qrc
+/wbase27/src/Main.qml
+/wbase27/src/WorkAreaRow.qml

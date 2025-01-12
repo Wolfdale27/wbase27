@@ -1,0 +1,14 @@
+-rootPath
+/home/wolfdale/workspace/projects/wbase27
+-cmake-output
+-output-file
+/home/wolfdale/workspace/projects/wbase27/build/MerProfile-Debug/.qt/qml_imports/wbase27_build.cmake
+-importPath
+/home/wolfdale/workspace/projects/wbase27/build/MerProfile-Debug/wbase27
+-importPath
+/home/wolfdale/workspace/projects/wbase27/build/MerProfile-Debug
+-importPath
+/opt/Qt/6.7/gcc_64/qml
+-qrcFiles
+/home/wolfdale/workspace/projects/wbase27/build/MerProfile-Debug/.qt/rcc/qmake_wbase27.qrc
+/home/wolfdale/workspace/projects/wbase27/build/MerProfile-Debug/.qt/rcc/wbase27_raw_qml_0.qrc

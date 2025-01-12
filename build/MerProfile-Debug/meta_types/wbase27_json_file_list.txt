@@ -1,0 +1,1 @@
+/home/wolfdale/workspace/projects/wbase27/build/MerProfile-Debug/wbase27_autogen/include/../UVLADIE3JM/moc_standbymanager.cpp.json
